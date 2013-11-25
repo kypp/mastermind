@@ -5,11 +5,12 @@ A classical Mastermind game in C using OpenGL (freeglut).
 
 ### Controls
 
-_Keys:_			_Action:_
-**1**-**6**			_Choose color_
-**Left**/**Right**	_Move marker_
-**Return**		_Approve line_
-**q**/**Esc**		_Quit_
+Keys: | Action:
+--- | ---
+**1**-**6** | _Choose color_
+**Left**/**Right** | _Move marker_
+**Return** | _Approve line_
+**q**/**Esc** | _Quit_
 
 ### Download
 
