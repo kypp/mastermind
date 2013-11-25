@@ -1,0 +1,4 @@
+mastermind
+==========
+
+Classical Mastermind game
